@@ -1,0 +1,30 @@
+#AWS+DevOps......
+
+~AWS why popular in market..... totaly in cloud computing (cc) more then 75% wond by AWS ,after that Azure and Google Cloud Platform (GCP esy to use tools and services)
+
+*more then 20 year 
+*globally presences strogest in world
+*Availability of services/ features quality more then others 
+*security 
+*AWS is not only business growup ,IT + education with taibe in college
+
+
+#DevOps.....(concept, thought,methodology)
+
+ ~Development and operation team will be handle
+
+#Software Development life Cycle (SDLC entire life cycleof s/w from starting to ending process)
+
+ *Planning  ....timing, contribution
+ *Requirement...manpower
+ *Desing....testing ,UI
+ *Software..background,businesslogic
+ *Testing
+ *Deployment
+ *Operations and Maintance
+
+
+
+
+
+
